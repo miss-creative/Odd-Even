@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80);
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+  }
+  
+  input[type="text"] {
+    padding: 5px 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+  
